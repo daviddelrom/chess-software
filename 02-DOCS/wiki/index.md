@@ -22,3 +22,4 @@ Principios de desarrollo y decisiones arquitectónicas del proyecto.
 |---------|---------|---------|-------|
 | [Constitución SDD](sdd/constitution.md) | Principios ratificados, Definition of Done y decisiones técnicas pendientes. | 2026-11-09 | 0.0 |
 | [Registro de decisiones SDD](sdd/decisions.md) | Ratificación inicial de la constitución y alternativas mantenidas abiertas. | 2026-11-09 | 0.0 |
+| [Matriz de trazabilidad de requisitos IS2](sdd/requirements-traceability.md) | Requisitos del enunciado oficial, aceptación verificable, rúbrica y ambigüedades; especificaciones y evidencias pendientes. | 2026-11-09 | 0.0 |
