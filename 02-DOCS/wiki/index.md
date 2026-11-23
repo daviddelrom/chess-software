@@ -29,5 +29,9 @@ Principios de desarrollo y decisiones arquitectónicas del proyecto.
 | Article | Summary | Updated | Score |
 |---------|---------|---------|-------|
 | [Constitución SDD](sdd/constitution.md) | Principios ratificados, Definition of Done y decisiones técnicas pendientes. | 2026-11-09 | 0.0 |
-| [Registro de decisiones SDD](sdd/decisions.md) | Ratificación inicial de la constitución y alternativas mantenidas abiertas. | 2026-11-09 | 0.0 |
+| [Registro de decisiones SDD](sdd/decisions.md) | Ratificación inicial de la constitución y alternativas mantenidas abiertas. | 2026-11-23 | 0.0 |
 | [Matriz de trazabilidad de requisitos IS2](sdd/requirements-traceability.md) | Requisitos del enunciado oficial, aceptación verificable, rúbrica y ambigüedades; especificaciones y evidencias pendientes. | 2026-11-09 | 0.0 |
+| [Modelo conceptual mínimo](sdd/domain-model.md) | Entidades, relaciones y límites provisionales del dominio. | 2026-11-23 | 0.0 |
+| [Catálogo inicial de casos de uso](sdd/use-cases.md) | Inventario trazado a IS2; registro e inicio de sesión detallados. | 2026-11-23 | 0.0 |
+| [Esquema mínimo de arquitectura hexagonal](sdd/architecture-overview.md) | Límites conceptuales del backend y frontend sin tecnologías concretas. | 2026-11-23 | 0.0 |
+| [Especificación: registro e inicio de sesión](sdd/specifications/authentication.md) | Alcance y criterios de aceptación detallados, pendientes de aprobación. | 2026-11-23 | 0.0 |
