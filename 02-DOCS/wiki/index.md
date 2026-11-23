@@ -3,6 +3,14 @@
 > Catálogo de artículos de `02-DOCS/wiki/`. Los scores están inicializados a `0.0`;
 > calcularlos en una pasada de mantenimiento cuando exista evidencia suficiente.
 
+## proyecto
+
+Hitos de seguimiento incremental de la preparación, especificación, implementación y entrega.
+
+| Article | Summary | Updated | Score |
+|---------|---------|---------|-------|
+| [Roadmap del proyecto](project-roadmap.md) | Estado y resultado demostrable de los nueve hitos; la ejecución será incremental y verificable. | 2026-11-23 | 0.0 |
+
 ## harness
 
 Perfil y decisiones de configuración del harness rsc.
